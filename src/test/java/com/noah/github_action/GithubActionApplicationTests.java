@@ -18,7 +18,7 @@ class GithubActionApplicationTests {
 	@Test
 	@DisplayName("Hello My Test2")
 	void failTest() {
-		assertEquals(4, 1+3);
+		assertEquals(5, 1+3);
 	}
 
 }
